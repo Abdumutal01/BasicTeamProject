@@ -1,0 +1,57 @@
+.main__part{
+    width: 100%;
+}
+.main__part__container{
+    width: 80%;
+    margin: 0 auto;
+}
+.title__general{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title__general img{
+    height: 5px;
+    width: 80%;
+}
+.general__general{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+.general__general img{
+    width: 49%;
+}
+.general__general__text{
+    width: 49%;
+}
+.small__imgs{
+    width: 100%;
+    display: flex;
+    gap: 30px;
+}
+.object{
+    width: 100%;
+}
+.object__title{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.object__title img{
+    height: 5px;
+    width: 80%;
+}
+.imgs__general{
+    width: 100%;
+    display: flex;
+    gap: 35px;
+}
+
+.imgs__general img{
+    width: 32% !important;
+    height: 330px;
+}

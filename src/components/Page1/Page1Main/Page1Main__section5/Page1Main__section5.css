@@ -1,0 +1,22 @@
+.section5__bg{
+    background-image: url(./Page1Main__section5Imgs//Page1Main__section5Img1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    padding: 100px 0px;
+    text-align: center;
+}
+.section5__general{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.section5__box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+.section5__box img{
+    width: 50px;
+}

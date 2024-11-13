@@ -1,0 +1,39 @@
+.section2__bg{
+    background-image: url(./Page1Main__section2Imgs//Page1Main__section2Img1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+section .section2__map{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.section2__general{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+.section2__text{
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: start;
+    /* width: 500px; */
+    height: 300px;
+}
+.section2__general img{
+    width: 500px;
+    height: 300px;
+}
+.section2__text button{
+    background-color: #CF0028;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+}

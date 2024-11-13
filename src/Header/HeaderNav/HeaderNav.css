@@ -1,0 +1,85 @@
+.nav,
+.nav__boxes,
+.nav__list {
+    display: flex;
+    align-items: center;
+}
+
+.nav__boxes {
+    gap: 80px;
+}
+
+.nav {
+    justify-content: space-between;
+    gap: 20px;
+    margin-left: 80px;
+}
+
+
+.nav__list {
+    gap: 20px;
+    padding: 0px 28px;
+    border-left: 1px solid #C1C1C1;
+    border-right: 1px solid #C1C1C1;
+}
+
+.nav__list i {
+    font-size: 30px;
+    color: #FFA825;
+}
+
+.nav__telLink {
+    color: #222222;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 32.68px;
+}
+
+.nav__box {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.nav__link {
+    font-size: 15px;
+    color: #222222;
+    font-weight: 600;
+    line-height: 21.79px;
+    text-transform: uppercase;
+}
+
+.nav__btnBox {
+    border-left: 1px solid #C1C1C1;
+    /* padding-left: 30px; */
+}
+
+.nav__shopping {
+    padding: 30px;
+    background: transparent;
+    position: relative;
+}
+
+.nav__shopping i {
+    font-size: 21px;
+}
+
+.nav__shopping span {
+    font-size: 11px;
+    padding: 5px 8px;
+    border-radius: 20px;
+    background: #FEB801;
+    position: absolute;
+    top: 18px;
+    right: 12px;
+}
+
+.nav__btn {
+    font-size: 14px;
+    font-weight: 700;
+    color: #FFFFFF;
+    padding: 38px 43px;
+    line-height: 27.24px;
+    background: #CF0028;
+    text-transform: uppercase;
+}

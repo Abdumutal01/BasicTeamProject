@@ -1,0 +1,26 @@
+.section3__bg{
+    background-image: url(./Page1Main__section3Imgs//Page1Main__section3Img1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
+.section3__general{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    color: #fff;
+    padding-top: 100px;
+    gap: 20px;
+}
+.section3__box{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+    align-items: center;
+}
+.section3__box img{
+    width: 50px;
+}
